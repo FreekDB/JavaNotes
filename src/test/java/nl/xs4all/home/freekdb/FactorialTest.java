@@ -1,3 +1,8 @@
+/**
+ * Copyright 2014 Freek de Bruijn.
+ * Licensed under the Apache License version 2.0 (see http://www.apache.org/licenses/LICENSE-2.0.html).
+ */
+
 package nl.xs4all.home.freekdb;
 
 import java.math.BigInteger;
